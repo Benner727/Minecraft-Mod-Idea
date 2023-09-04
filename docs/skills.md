@@ -107,7 +107,7 @@ Complete rework of the enchanting system
 Remove heart system
 
 - Health is now just a number and increases with level
-- You do not lose experience when you die [Possibly optional setting?]
+- You do not lose experience when you die *Possibly optional setting?*
 
 The Wither and Ender Dragon should be scaling boss fights
 
