@@ -1,0 +1,13 @@
+site_name: Minecraft Mod Idea
+
+theme:
+  name: readthedocs
+  highlightjs: true
+  hljs_languages:
+    - yaml
+    - rust
+
+nav:
+  - Home: index.md
+  - Skills: skills.md
+  - Villager Trading: villager-trading.md
