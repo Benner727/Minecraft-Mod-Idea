@@ -8,7 +8,7 @@ Introduce skills to the game
 
 ### Farming
 
-New crops to be used as ingredients in brewing
+New crops that can be used as ingredients in brewing
 
 - Harvesting them with **secateurs** will increase yields
 - Do not drop seeds when harvested
@@ -18,6 +18,10 @@ New **soil** blocks for increasing harvest yields
 - *Soil* - Increases possible yields by +1
 - *Composted Soil* - Increases possible yields by +2
 - *Volcanic Soil* - Increases possible yields by +3
+
+Gain experience from harvesting with **secateurs** or **hoe**
+
+- Get increased loot from harvesting with hoe as your farming level increases
 
 
 ### Brewing
