@@ -1,0 +1,143 @@
+- Nerf food overall
+
+- Eat animation speed based on nutritional value of food (faster the lower the saturation) 
+
+- Crop tiers (Borderline edible - perfect)
+Could end up cluttering inventory
+Allow bundling?
+Tiers: Fine, Great, Perfect, Golden.
+Fine = worse than vanilla
+
+- Soil Types
+3 soil types: Wet, Temperate, Dry. 
+Similar crops have similar soil types. 
+All crops can grow in any soil, with better results the closer to optimal conditions.
+
+- Plant grow more like melons and pumpkins. Longer time to mature the first time but don't reset to 0 when harvested. Still only in one block though. 
+
+- Market mechanic
+Jigsaw market world feature - fixed.
+All markets are part of a system with information delays the further apart they are. (Determine prices when player interacts to prevent constant checking?)
+Local prices dependent on overall system, weighted toward local.
+Seasonal prices.
+Rotating inventory (sells soil types, bone meal, tools, good food)
+NOT player dependent. 
+
+- Chance of Crop Failures
+Individual, cluster, entire connected fields.
+Plights and droughts as hurdles to be overcome through progress
+
+ - Growth Conditions / Seasons
+All crops still grow in all places.
+Crops grow faster the more correct the conditions are.
+Nerf base growth time.
+Results boosted by better conditions. 
+Light level (proxy for daytime)
+
+- Personal level
+Determines results and growth multipliers at time of planting or harvest. 
+Level up from successful harvests. 
+Perks at certain levels further boosting productivity. 
+Perks - Yield boost, reputation with traders, growth time boost, crop tier boost
+Hoe durability goes down more per harvest at first and lowers with levels. 
+
+- Specific tools
+Better results with the right tool.
+Lower results with wrong tool and a very low chance of no yield
+Better material boosts results too
+Use shovel, shears and hoe.
+
+- Genetics / Mutations (booleans)
+Seasonal resistance
+Stronger maturity reset, i.e start at 75% instead of 50% when harvested. 
+Disease / plight resistance
+Golden variant
+Soil preference resistance
+
+- Add new growable food to the game
+Pickable berry bushes (3 tops)
+Rework gourds or just add zucchini 
+
+Potato Example:
+All around good. Easiest to grow. 
+Base speed 3 days. 
+Base yield 3 units. 
+Soil preference: Temperate.
+Reset on harvest: 100%
+Market value: low
+Peak market value season: winter
+Food value: low
+Saturation: medium
+Favorite season: summer?
+Chance of failure: low
+Failure spread chance: low
+Harvest exp: low
+Correct tool: shovel
+Possible Mutations: all except harvest reset. 
+
+Carrot example:
+All around good. Easy to grow. 
+Base speed 3 days. 
+Base yield 1 units. 
+Soil preference: Temperate.
+Reset on harvest: 100%
+Market value: low
+Peak market value season: winter
+Food value: low
+Saturation: medium
+Favorite season: summer?
+Chance of failure: low
+Failure spread chance: low
+Harvest exp: low
+Correct tool: shovel
+Possible Mutations: all except harvest reset. 
+
+Example wheat:
+All around good. Medium difficulty 
+Base speed 7 days. 
+Base yield 5 units. 
+Soil preference: Temperate.
+Reset on harvest: 100%
+Market value: medium
+Peak market value season: summer
+Food value: none 
+Saturation: none
+Favorite season: spring 
+Chance of failure: medium
+Failure spread chance: high
+Harvest exp: medium
+Correct tool: hoe
+Possible Mutations: all except harvest reset. 
+
+Example BlackBerry
+Valuable trade good, hard to grow. 
+Base speed 5 days. 
+Base yield 12 units. 
+Soil preference: Wet
+Reset on harvest: 50%
+Market value: high
+Peak market value season: summer
+Food value: low
+Saturation: low
+Favorite season: summer
+Chance of failure: low
+Failure spread chance: low
+Harvest exp: medium
+Correct tool: shears
+Possible Mutations: all
+
+Example Gourd
+Base speed 6 days. 
+Base yield 2 units. 
+Soil preference: Dry.
+Reset on harvest: 25%
+Market value: medium
+Peak market value season: fall
+Food value: high
+Saturation: medium
+Favorite season: summer?
+Chance of failure: low
+Failure spread chance: high
+Harvest exp: high
+Correct tool: hoe
+Possible Mutations: all
