@@ -30,3 +30,6 @@ That is one problem I would like to try and tackle.
 
 - Trying to draw inspiration from vault hunters
 - Goal is to give players a reason to farm large quantities of items
+	- Possible idea is changing method for spawning wither / respawning ender dragon
+	- Make it cost more items
+	- What is reward though?
