@@ -85,7 +85,7 @@ Ingredients can be combined to create meals
 - Meals are just better versions of food
 - Can be stacked up to 64
 - Chance of success is determined by level (meals can be ruined)
-- Gain experience from using **smoker**
+- Gain experience from using **smoker** or (new cooking block)
 
 	`Chance of Success = 50.0 + (Level / 2)`
 
@@ -113,7 +113,8 @@ Complete rework of the enchanting system
 - Upgrade gear with gems obtained from mining
 - Higher quality gems give higher quality upgrades
 - Chance of success is determined by level (upgrades can fail)
-- Gain experience from using **blast furnace**
+- Repair amount is determined by level as well
+- Gain experience from using **blast furnace** or **anvil**
 
 	`Chance of Success = 50.0 + (Level / 2)`
 

@@ -8,7 +8,7 @@ Villager trades should be focused on three things:
 - Have trades for converting resources for a small exchange rate
 - Sell mid-tier weapons, tools, and armor
 
-The Wandering trade should be the anti-explorationg trader
+The Wandering trade should be the anti-exploration trader
 
 - Provides you with resources found in random biomes
 - Has a few difficult to obtain items for a steep cost
